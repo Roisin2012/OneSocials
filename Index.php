@@ -25,7 +25,7 @@
   </head>
   <body>
     <h1>php-sdk</h1>
-<?php include 'facebook.php';
+<?php include 'http://onesocial.azurewebsites.net/facebook.php';
 include 'Merg.php';
 
 $user=getUser();
